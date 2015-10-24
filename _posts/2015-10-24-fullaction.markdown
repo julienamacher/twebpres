@@ -17,8 +17,8 @@ Give your email address to your audience, so they will be able to join:
 
 On your screen, participants will be listed as they hop in:
 
-[Join it]({{ site.url }}{{ site.baseurl }}/assets/poll_joined.png)
+![Join it]({{ site.url }}{{ site.baseurl }}/assets/poll_joined.png)
 
 As you show the question, you will be able to see the results in real time:
 
-[Live results]({{ site.url }}{{ site.baseurl }}/assets/live_results.png)
+![Live results]({{ site.url }}{{ site.baseurl }}/assets/live_results.png)
