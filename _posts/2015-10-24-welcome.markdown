@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-10-24 16:55:57
+categories: QuickPoll
+---
+
+This blog will keep you updated on our upcoming product: QuickPoll
+
+With it, you'll be able to dynamize your presentation like never before - and with ease!
+
+Gathering information from your audience can be tricky - or even painful -, that's for sure.
+Our easy to use service will let you create a poll, and for each question, specify multiple answers.
+
+During your presentation, simply go the the next question and get immediate participation.
+
+What is needed is what everyone has in this new digital era: a Web enabled smartphone.
+
+Stay tuned for more updates!
