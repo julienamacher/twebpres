@@ -25,10 +25,10 @@ For each question, you can specify:
 			<li>A timeout which determines the amount of time the question will be displayed (in seconds)</li>
 		</ul>
 	</li>
-	<li>A list of possible answers:
-		![Answers example]({{ site.url }}{{ site.baseurl }}/assets/poll_answers.png)
-	</li>
- </ul>
- 
+	<li>A list of possible answers</li>
+</ul>
+
+![Answers example]({{ site.url }}{{ site.baseurl }}/assets/poll_answers.png)
+
 All you have to do now is create it!
 ![Create it]({{ site.url }}{{ site.baseurl }}/assets/create_poll.png)
