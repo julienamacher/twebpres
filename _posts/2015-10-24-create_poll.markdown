@@ -9,11 +9,11 @@ Our first preview will focus on creating your first poll.
 
 First of all, give it a name!
 
-![Give it a name]({{ site.url }}/assets/poll_name.png)
+![Give it a name]({{ site.url }}{{ site.baseurl }}/assets/poll_name.png)
 
 As an example, this question is automatically included:
 
-![Question example]({{ site.url }}/assets/poll_question.png)
+![Question example]({{ site.url }}{{ site.baseurl }}/assets/poll_question.png)
 
 For each question, you can specify:
 <ul>
@@ -26,9 +26,9 @@ For each question, you can specify:
 		</ul>
 	</li>
 	<li>A list of possible answers:
-		![Answers example]({{ site.url }}/assets/poll_answers.png)
+		![Answers example]({{ site.url }}{{ site.baseurl }}/assets/poll_answers.png)
 	</li>
  </ul>
  
 All you have to do now is create it!
-![Create it]({{ site.url }}/assets/create_poll.png)
+![Create it]({{ site.url }}{{ site.baseurl }}/assets/create_poll.png)
