@@ -7,7 +7,7 @@ categories: QuickPoll
 
 This blog will keep you updated on our upcoming product: QuickPoll
 
-With it, you'll be able to dynamize your presentation like never before - and with ease!
+With it, you'll be able to dynamize your talks like never before - and with ease!
 
 Gathering information from your audience can be tricky - or even painful -, that's for sure.
 Our easy to use service will let you create a poll, and for each question, specify multiple answers.
