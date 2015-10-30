@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QuickPoll Feature preview</title>
+    <description>This website&#39;s goal is to show you what our next Web application &#39;QuickPoll&#39; will be able to do for you. Are you a teacher ? You will be able to gather information from your audience in no time!
+</description>
+    <link>http://julienamacher.github.io/twebpres/</link>
+    <atom:link href="http://julienamacher.github.io/twebpres/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>View poll results</title>
+        <description>&lt;p&gt;Once completed, you can display its results in both graphical and textual ways:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/poll_view.png&quot; alt=&quot;Give it a name&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Oct 2015 18:55:57 +0100</pubDate>
+        <link>http://julienamacher.github.io/twebpres/quickpoll/2015/10/30/view/</link>
+        <guid isPermaLink="true">http://julienamacher.github.io/twebpres/quickpoll/2015/10/30/view/</guid>
+      </item>
+    
+      <item>
+        <title>Full action</title>
+        <description>&lt;p&gt;In this second part, we will show you what you will see, as a speaker, when people cast their votes!&lt;/p&gt;
+
+&lt;p&gt;First, open it:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/open_poll.png&quot; alt=&quot;Open it&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Give your email address to your audience, so they will be able to join:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/poll_join.png&quot; alt=&quot;Join it&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On your screen, participants will be listed as they hop in:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/poll_joined.png&quot; alt=&quot;Join it&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you show the question, you will be able to see the results in real time:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/live_results.png&quot; alt=&quot;Live results&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Oct 2015 19:55:57 +0200</pubDate>
+        <link>http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/fullaction/</link>
+        <guid isPermaLink="true">http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/fullaction/</guid>
+      </item>
+    
+      <item>
+        <title>Create your first poll</title>
+        <description>&lt;p&gt;Our first preview will focus on creating your first poll.&lt;/p&gt;
+
+&lt;p&gt;First of all, give it a name!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/poll_name.png&quot; alt=&quot;Give it a name&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As an example, this question is automatically included:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/poll_question.png&quot; alt=&quot;Question example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For each question, you can specify:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Its name&lt;/li&gt;
+	&lt;li&gt;Its options:
+		&lt;ul&gt;
+			&lt;li&gt;If you allow anonymous voting&lt;/li&gt;
+			&lt;li&gt;The total number of votes each user can cast&lt;/li&gt;
+			&lt;li&gt;A timeout which determines the amount of time the question will be displayed (in seconds)&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;A list of possible answers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/poll_answers.png&quot; alt=&quot;Answers example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All you have to do now is create it!
+&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/create_poll.png&quot; alt=&quot;Create it&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Oct 2015 19:55:57 +0200</pubDate>
+        <link>http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/create_poll/</link>
+        <guid isPermaLink="true">http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/create_poll/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome!</title>
+        <description>&lt;p&gt;This blog will keep you updated on our upcoming product: QuickPoll&lt;/p&gt;
+
+&lt;p&gt;With it, you’ll be able to dynamize your talks like never before - and with ease!&lt;/p&gt;
+
+&lt;p&gt;Gathering information from your audience can be tricky - or even painful -, that’s for sure.
+Our easy to use service will let you create a poll, and for each question, specify multiple answers.&lt;/p&gt;
+
+&lt;p&gt;During your presentation, simply go the the next question and get immediate participation.&lt;/p&gt;
+
+&lt;p&gt;What is needed is what everyone has in this new digital era: a Web enabled smartphone.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more updates!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Oct 2015 18:55:57 +0200</pubDate>
+        <link>http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/welcome/</link>
+        <guid isPermaLink="true">http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/welcome/</guid>
+      </item>
+    
+  </channel>
+</rss>

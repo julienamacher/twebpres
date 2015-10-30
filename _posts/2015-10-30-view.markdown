@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "View poll results"
+date:   2015-10-30 17:55:57
+categories: QuickPoll
+---
+
+Once completed, you can display its results in both graphical and textual ways:
+
+![Give it a name]({{ site.url }}{{ site.baseurl }}/assets/poll_view.png)
