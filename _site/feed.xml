@@ -9,7 +9,7 @@
     
       <item>
         <title>View poll results</title>
-        <description>&lt;p&gt;Once completed, you can display its results in both graphical and textual ways:&lt;/p&gt;
+        <description>&lt;p&gt;Once completed, the speaker (the one who created the poll and decided when to go to the next question) can display the poll results in both graphical and textual ways:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://julienamacher.github.io/twebpres/assets/poll_view.png&quot; alt=&quot;Give it a name&quot; /&gt;&lt;/p&gt;
 </description>

@@ -5,6 +5,6 @@ date:   2015-10-30 17:55:57
 categories: QuickPoll
 ---
 
-Once completed, you can display its results in both graphical and textual ways:
+Once completed, the speaker (the one who created the poll and decided when to go to the next question) can display the poll results in both graphical and textual ways:
 
 ![Give it a name]({{ site.url }}{{ site.baseurl }}/assets/poll_view.png)
