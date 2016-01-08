@@ -2,23 +2,19 @@
 layout: default
 ---
 
-<div class="home">
+<!-- {{ post.date | date: site.date_format }} -->
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post py3">
-        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
-        </p>
-      </div>
-    {% endfor %}
-  </div>
-
-  {% include pagination.html %}
+{% for post in paginator.posts %}
+<div class="row featurette">
+	<div class="col-md-7">
+		<h2 class="featurette-heading">{{ post.title }}</h2>
+		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Read more</a>
+		<!-- <p class="lead">{{ post.content }}</p> -->
+	</div>
+	<div class="col-md-5">
+		<img class="featurette-image img-responsive center-block" src="{{ site.url }}{{ site.baseurl }}/assets/{{ post.image }}">
+	</div>
 </div>
+
+<hr class="featurette-divider">
+{% endfor %}

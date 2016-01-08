@@ -3,6 +3,7 @@ layout: post
 title:  "Full action"
 date:   2015-10-24 17:55:57
 categories: QuickPoll
+image: live_results.png
 ---
 
 In this second part, we will show you what you will see, as a speaker, when people cast their votes!

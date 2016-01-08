@@ -3,6 +3,7 @@ layout: post
 title:  "View poll results"
 date:   2015-10-30 17:55:57
 categories: QuickPoll
+image: poll_view.png
 ---
 
 Once completed, the speaker (the one who created the poll and decided when to go to the next question) can display the poll results in both graphical and textual ways:

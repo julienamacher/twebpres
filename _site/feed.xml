@@ -8,16 +8,6 @@
     <atom:link href="http://julienamacher.github.io/twebpres/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Hop in</title>
-        <description>&lt;p&gt;Try our app here: &lt;a href=&quot;https://shrouded-falls-6875.herokuapp.com&quot;&gt;QuickPoll&lt;/a&gt;. You’ll find the GitHub repo &lt;a href=&quot;https://github.com/xajkep/Teaching-HEIGVD-TWEB-2015-Project&quot;&gt;here&lt;/a&gt;. This website is available &lt;a href=&quot;https://github.com/julienamacher/twebpres&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 10 Nov 2015 21:23:12 +0100</pubDate>
-        <link>http://julienamacher.github.io/twebpres/quickpoll/2015/11/10/hopin/</link>
-        <guid isPermaLink="true">http://julienamacher.github.io/twebpres/quickpoll/2015/11/10/hopin/</guid>
-      </item>
-    
-      <item>
         <title>View poll results</title>
         <description>&lt;p&gt;Once completed, the speaker (the one who created the poll and decided when to go to the next question) can display the poll results in both graphical and textual ways:&lt;/p&gt;
 
@@ -86,26 +76,6 @@
         <pubDate>Sat, 24 Oct 2015 19:55:57 +0200</pubDate>
         <link>http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/create_poll/</link>
         <guid isPermaLink="true">http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/create_poll/</guid>
-      </item>
-    
-      <item>
-        <title>Welcome!</title>
-        <description>&lt;p&gt;This blog will keep you updated on our upcoming product: QuickPoll&lt;/p&gt;
-
-&lt;p&gt;With it, you’ll be able to dynamize your talks like never before - and with ease!&lt;/p&gt;
-
-&lt;p&gt;Gathering information from your audience can be tricky - or even painful -, that’s for sure.
-Our easy to use service will let you create a poll, and for each question, specify multiple answers.&lt;/p&gt;
-
-&lt;p&gt;During your presentation, simply go the the next question and get immediate participation.&lt;/p&gt;
-
-&lt;p&gt;What is needed is what everyone has in this new digital era: a Web enabled smartphone.&lt;/p&gt;
-
-&lt;p&gt;Stay tuned for more updates!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 Oct 2015 18:55:57 +0200</pubDate>
-        <link>http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/welcome/</link>
-        <guid isPermaLink="true">http://julienamacher.github.io/twebpres/quickpoll/2015/10/24/welcome/</guid>
       </item>
     
   </channel>

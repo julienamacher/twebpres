@@ -3,6 +3,7 @@ layout: post
 title:  "Create your first poll"
 date:   2015-10-24 17:55:57
 categories: QuickPoll
+image: poll_question.png
 ---
 
 Our first preview will focus on creating your first poll.
